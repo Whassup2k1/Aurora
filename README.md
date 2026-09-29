@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/aurora-logo.png" alt="Aurora" width="420">
+  <img src="images/aurora-logo.png" alt="Aurora" width="420">
 </p>
 
 <p align="center">
