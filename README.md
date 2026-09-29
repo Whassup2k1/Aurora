@@ -36,7 +36,7 @@ share feedback and help us polish the experience before launch.
 <h3>🌌 Be among the first to experience Aurora.</h3>
 
 <p>
-<a href="https://github.com/Whassup2k1/Aurora-Player/discussions/1">
+<a href="https://github.com/Whassup2k1/Aurora/discussions/1">
 <strong>→ Join the Aurora Beta Testing Program</strong>
 </a>
 </p>
