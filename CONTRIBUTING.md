@@ -113,7 +113,8 @@ Translation feedback is welcome, especially for:
 
 Do not publish credentials, private keys, access tokens or other sensitive information in GitHub Issues or Discussions.
 
-If you believe you have discovered a security vulnerability, avoid publishing technical details that could expose Aurora users while a private reporting process is being established.
+If you believe you have discovered a security vulnerability, please follow the responsible disclosure process described in [SECURITY.md](SECURITY.md).
+
 
 ## Community philosophy
 
