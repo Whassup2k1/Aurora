@@ -272,29 +272,19 @@ It is designed to work quietly in the background so you can focus on your media 
 
 ---
 
-## 🔌 API & Services
+## 🔌 Metadata & Services
 
-Aurora can use external services to enrich your library.
+Aurora can enrich your media experience using trusted external metadata and artwork services.
 
-Current or planned integrations include:
+Depending on the type of content and the features you enable, Aurora can retrieve information such as:
 
-**Automatic services**
+- Artist and album information
+- Movie and series metadata
+- Artwork and backdrops
+- Trailers
+- Additional media information
 
-- MusicBrainz
-- Wikidata
-- Wikipedia
-- Wikimedia Commons
-- Cover Art Archive
-
-**Optional services**
-
-- TheAudioDB
-- Fanart.tv
-- YouTube Data API
-- TMDB
-- Setlist.fm
-
-API credentials are designed to remain server-side and can be stored using Aurora's encrypted local secret vault.
+External integrations are optional and are managed directly through Aurora Server.
 
 ---
 
