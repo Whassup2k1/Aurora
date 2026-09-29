@@ -593,9 +593,9 @@ Planned documentation includes:
 
 ## 🔐 Security
 
-Security vulnerabilities should not be reported through public Issues or Discussions.
+Do not publish credentials, private keys, access tokens or other sensitive information in GitHub Issues or Discussions.
 
-Please see our [Security Policy](SECURITY.md) for responsible disclosure information.
+If you believe you have discovered a security vulnerability, please follow the responsible disclosure process described in [SECURITY.md](SECURITY.md).
 
 ---
 
