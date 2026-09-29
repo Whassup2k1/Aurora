@@ -513,8 +513,6 @@ Aurora is being built with those goals in mind.
 
 <a id="contributing"></a>
 
-<a id="contributing"></a>
-
 ## 🤝 Contributing
 
 Aurora is privately developed, but community feedback will play an important role in shaping the experience.
