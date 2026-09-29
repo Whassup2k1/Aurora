@@ -78,11 +78,11 @@ Instead of feeling like a traditional media server control panel, Aurora is desi
 
 ---
 
-## 🎵 Built for music first
+## 🎵 Music
 
-Music is at the heart of Aurora.
+Aurora brings your music library into the same premium experience as the rest of your media.
 
-Aurora includes a native music library and playback architecture designed for local, high-quality audio.
+Built for high-quality local playback, Aurora combines your albums, artists, playlists and favorites with rich artwork, powerful discovery and advanced audio features.
 
 Current and planned music features include:
 
@@ -101,8 +101,6 @@ Current and planned music features include:
 - Master Reference audio mode
 - Fullscreen player
 - Multi-user support
-
-Aurora is powered by its own native Aurora Server architecture for media management, streaming, metadata, administration and platform services.
 
 ---
 
