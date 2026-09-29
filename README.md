@@ -622,5 +622,5 @@ License information will be provided in [`LICENSE`](LICENSE).
 
 <p align="center">
   <strong>AURORA</strong><br>
-  <em>Music for your world.</em>
+  <em>Your media. Your server. Your experience.</em>
 </p>
