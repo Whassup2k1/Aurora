@@ -536,22 +536,25 @@ Aurora is being built with those goals in mind.
 
 <a id="contributing"></a>
 
+<a id="contributing"></a>
+
 ## 🤝 Contributing
 
-Aurora is still young, and contributions will become increasingly important as the project grows.
+Aurora is privately developed, but community feedback will play an important role in shaping the experience.
 
-Contributions may include:
+You don't need to be a developer to contribute.
 
-- bug reports
-- testing
-- documentation
-- translations
-- UI/UX improvements
-- Linux packaging
-- backend development
-- frontend development
-- metadata providers
-- platform clients
+The best ways to help Aurora are:
+
+- Beta testing
+- Bug reports
+- Feature suggestions
+- UI/UX feedback
+- Translation feedback
+- Documentation feedback
+- Hardware and platform compatibility testing
+
+Not every feature request will necessarily become part of Aurora. Feedback will be evaluated based on usefulness, consistency with the Aurora experience and the needs of the wider community.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information.
 
