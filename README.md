@@ -56,7 +56,7 @@ share feedback and help us polish the experience before launch.
 ---
 
 <p align="center">
-  <img src="docs/images/hero-dashboard.png" alt="Aurora Dashboard" width="100%">
+  <img src="images/hero-dashboard.png" alt="Aurora Dashboard" width="100%">
 </p>
 
 ---
@@ -225,37 +225,37 @@ Aurora focuses on:
 ### Music Home
 
 <p align="center">
-  <img src="docs/images/music-home.png" alt="Aurora Music Home" width="100%">
+  <img src="images/music-home.png" alt="Aurora Music Home" width="100%">
 </p>
 
 ### Album
 
 <p align="center">
-  <img src="docs/images/album-page.png" alt="Aurora Album Page" width="100%">
+  <img src="images/album-page.png" alt="Aurora Album Page" width="100%">
 </p>
 
 ### Fullscreen Player
 
 <p align="center">
-  <img src="docs/images/fullscreen-player.png" alt="Aurora Fullscreen Player" width="100%">
+  <img src="images/fullscreen-player.png" alt="Aurora Fullscreen Player" width="100%">
 </p>
 
 ### Search
 
 <p align="center">
-  <img src="docs/images/search.png" alt="Aurora Search" width="100%">
+  <img src="images/search.png" alt="Aurora Search" width="100%">
 </p>
 
 ### Movies
 
 <p align="center">
-  <img src="docs/images/movies.png" alt="Aurora Movies" width="100%">
+  <img src="images/movies.png" alt="Aurora Movies" width="100%">
 </p>
 
 ### Administration
 
 <p align="center">
-  <img src="docs/images/admin-dashboard.png" alt="Aurora Admin Dashboard" width="100%">
+  <img src="images/admin-dashboard.png" alt="Aurora Admin Dashboard" width="100%">
 </p>
 
 ---
