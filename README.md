@@ -262,26 +262,13 @@ Aurora focuses on:
 
 ## ⚙️ Aurora Server
 
-Aurora is more than a frontend.
+Aurora is powered by Aurora Server, the local engine behind your personal streaming experience.
 
-Aurora Server provides the local backend responsible for:
+Aurora Server manages your media libraries, users, streaming, metadata, artwork, backups, updates and connected Aurora devices from one central location.
 
-- media libraries
-- scanning and indexing
-- PostgreSQL catalog
-- users
-- authentication
-- streaming
-- metadata
-- artwork
-- integrations
-- backups
-- updates
-- diagnostics
-- local HTTPS
-- local network discovery
+It is designed to work quietly in the background so you can focus on your media rather than managing server infrastructure.
 
-Aurora is designed so that users should not need to manually configure Docker containers, databases or internal services just to get started.
+**One server. Your media. All your screens.**
 
 ---
 
