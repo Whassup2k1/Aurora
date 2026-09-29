@@ -591,6 +591,14 @@ Planned documentation includes:
 
 ---
 
+## 🔐 Security
+
+Security vulnerabilities should not be reported through public Issues or Discussions.
+
+Please see our [Security Policy](SECURITY.md) for responsible disclosure information.
+
+---
+
 ## ⚠️ Development Notice
 
 Aurora is under active development.
