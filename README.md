@@ -596,7 +596,7 @@ Do not consider development builds a replacement for a tested production media s
 
 ## 📄 License
 
-License information will be provided in [`LICENSE`](LICENSE)..
+License information will be provided in [`LICENSE`](LICENSE).
 
 ---
 
