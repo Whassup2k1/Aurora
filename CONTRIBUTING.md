@@ -2,81 +2,131 @@
 
 Thank you for your interest in Aurora.
 
-Aurora is an independent, actively developed self-hosted multimedia platform. The project is still evolving quickly, so contribution guidelines will become more formal as Aurora approaches its first stable public release.
+Aurora is an independent, privately developed self-streaming platform.
+
+While Aurora's source code is not publicly developed, community feedback plays an important role in improving the experience and helping shape its future.
+
+You don't need to be a developer to contribute.
 
 ## Ways to contribute
 
-Useful contributions include:
+The best ways to help Aurora are:
 
-- reproducible bug reports
-- testing
-- documentation improvements
-- translations
-- UI and UX improvements
-- frontend development
-- backend development
-- Linux packaging
-- metadata providers and integrations
-- platform clients
+- Beta testing
+- Reproducible bug reports
+- Feature suggestions
+- UI and UX feedback
+- Translation feedback
+- Documentation feedback
+- Hardware compatibility testing
+- Browser and platform compatibility testing
+
+Every report helps make Aurora more reliable and easier to use.
+
+## Beta testing
+
+Early testers are especially valuable as Aurora approaches its first public release.
+
+Beta testing can help identify:
+
+- Installation problems
+- Upgrade and recovery issues
+- Playback problems
+- Library and metadata issues
+- Interface inconsistencies
+- Performance problems
+- Hardware-specific behavior
+- Browser and platform compatibility issues
+
+You do not need advanced technical knowledge to participate.
+
+Clear observations and reproducible steps are often more useful than technical analysis.
 
 ## Bug reports
 
 A useful bug report should include:
 
 - Aurora version
-- operating system and version
-- browser or client
-- clear reproduction steps
-- expected behavior
-- actual behavior
-- relevant logs
-- screenshots when they help explain the problem
+- Operating system and version
+- Browser or Aurora client
+- Clear reproduction steps
+- Expected behavior
+- Actual behavior
+- Relevant logs
+- Screenshots when they help explain the problem
 
-Never include passwords, API keys, access tokens, private certificates, database credentials or other secrets in an issue.
+Please never include passwords, API keys, access tokens, private certificates, database credentials or other secrets in a public issue.
 
-## Feature requests
+## Feature suggestions
 
-Feature requests should explain the problem or workflow being improved, not only the proposed implementation.
+Feature suggestions are welcome.
+
+When suggesting a feature, explain the problem, experience or workflow you would like to improve rather than only describing an implementation.
 
 Aurora is designed around a few core principles:
 
-- local-first media
-- self-hosting without unnecessary administration
-- a polished streaming-style experience
-- one coherent environment for multiple types of entertainment
+- Personal self-streaming
+- Local-first media
+- Privacy and user control
+- Simple self-hosting
+- A polished streaming-style experience
+- One coherent environment across different types of entertainment
+- A consistent experience across devices and platforms
 
-Suggestions that fit those goals are especially useful.
+Suggestions that fit those principles are especially useful.
 
-## Development
+Not every requested feature will necessarily become part of Aurora.
 
-Aurora currently contains multiple parts, including its frontend, backend, server/installation infrastructure and automated tests.
+Ideas will be evaluated based on their usefulness, how well they fit the Aurora experience and whether they benefit the wider community.
 
-Before submitting code:
+## Product feedback
 
-1. Keep changes focused.
-2. Avoid committing generated builds, packages, secrets or local configuration.
-3. Run the relevant type checks, builds and tests for the area you changed.
-4. Document behavior changes when appropriate.
-5. Keep user-facing changes consistent with Aurora's existing interface and product direction.
+Feedback about the overall Aurora experience is particularly valuable.
 
-## Pull requests
+This includes:
 
-Pull requests should include:
+- Navigation
+- Discoverability
+- Accessibility
+- Interface consistency
+- Ease of installation
+- Server administration
+- Playback experience
+- Multi-device experience
+- Features that feel confusing or unnecessarily complicated
 
-- a concise description of the change
-- why the change is needed
-- how it was tested
-- screenshots for meaningful UI changes
-- any migration, installation or compatibility impact
+Aurora aims to remain powerful without becoming difficult to use.
 
-Large architectural changes should be discussed before substantial implementation work begins.
+## Translations
+
+Aurora is designed for a multilingual experience.
+
+Translation feedback is welcome, especially for:
+
+- Incorrect translations
+- Awkward wording
+- Missing translations
+- Text that does not fit correctly in the interface
+- Terminology that could be clearer in a particular language
 
 ## Security
 
-Do not open a public issue containing a real credential, private key, exploitable secret or other sensitive information.
+Do not publish credentials, private keys, access tokens or other sensitive information in GitHub Issues or Discussions.
 
-If you discover a security issue, avoid publishing sensitive technical details until a private reporting process is available.
+If you believe you have discovered a security vulnerability, avoid publishing technical details that could expose Aurora users while a private reporting process is being established.
 
-## License
+## Community philosophy
 
-Contribution terms will follow Aurora's project license once the repository license has been finalized.
+Aurora is shaped by a clear product vision while remaining open to feedback from the people who use it.
+
+The goal is not to implement every request.
+
+The goal is to understand what users need, identify ideas that improve the experience for the wider community and continue building Aurora as one coherent product.
+
+**Listen to everyone. Build for the majority. Protect the vision.**
+
+## Thank you
+
+Testing Aurora, reporting a problem or simply explaining where something feels confusing can make a meaningful difference.
+
+Thank you for helping Aurora become better.
