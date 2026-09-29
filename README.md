@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Local streaming for your world.</strong>
+ <strong>Your media. Your server. Your world.</strong>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Modern. Private. Self-hosted.</strong>
+  <strong>Private. Local. Yours.</strong>
 </p>
 
 <hr>
