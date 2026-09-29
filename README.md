@@ -369,6 +369,30 @@ The long-term goal is simple:
 
 ---
 
+## 🌍 Multilingual by Design
+
+Aurora is designed as a multilingual platform from the start.
+
+The interface can adapt to the user's preferred language, allowing different Aurora users to enjoy the platform in the language that feels natural to them.
+
+Aurora's multilingual architecture is designed to extend across the entire experience, including:
+
+- Interface and navigation
+- Server administration
+- Movies and Series
+- TV
+- Music
+- Karaoke
+- Guitar tools
+- News and editorial content
+- Notifications and system messages
+
+Additional languages will continue to be added and improved with community feedback.
+
+**One Aurora. Many languages.**
+
+---
+
 ## 🔄 Updates & Recovery
 
 Aurora's installation architecture is being designed around safe and predictable updates.
