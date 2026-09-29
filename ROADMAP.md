@@ -289,6 +289,23 @@ The long-term goal is:
 
 ---
 
+## 🌍 Languages & Localization
+
+Aurora is designed around a multilingual experience.
+
+Development includes:
+
+- Localized interface and navigation
+- Localized administration
+- Multilingual News
+- Locale-aware formatting
+- Additional language support
+- Community translation feedback
+
+Language support will continue expanding as Aurora reaches more users and platforms.
+
+---
+
 ## 🔐 Privacy & Control
 
 Aurora will continue to follow a local-first philosophy.
