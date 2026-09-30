@@ -221,7 +221,7 @@ Aurora focuses on:
 
 ## 📸 Screenshots
 
-### Music Home
+### Artist Page
 
 <p align="center">
   <img src="images/music-home.png" alt="Aurora Music Home" width="100%">
