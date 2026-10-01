@@ -343,6 +343,8 @@ No manual database or container configuration should be required for a normal in
 
 Public installation instructions and builds will become available as Aurora enters beta testing.
 
+📖 **[Read the Aurora Installation Guide](INSTALLATION.md)**
+
 ---
 
 ## 🌐 Platform Support
