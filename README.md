@@ -612,9 +612,7 @@ Support helps with development, testing, infrastructure and the time required to
 
 ## 📚 Documentation
 
-Public documentation will progressively be added as Aurora approaches release.
-
-Planned documentation includes:
+Explore the official Aurora documentation:
 
 - **[Installation](INSTALLATION.md)** — Install and configure Aurora
 - **[Features](FEATURES.md)** — Explore Aurora's capabilities
@@ -624,7 +622,6 @@ Planned documentation includes:
 - **[Security](SECURITY.md)** — Report security vulnerabilities
 - **[Privacy](PRIVACY.md)** — Learn how Aurora protects your privacy
 - **[Contributing](CONTRIBUTING.md)** — Help improve Aurora
-
 - **[End User License Agreement](EULA.md)** — Aurora software license and terms of use
 
 ---
