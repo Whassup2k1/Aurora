@@ -47,7 +47,8 @@ share feedback and help us polish the experience before launch.
 <hr>
 
 <p align="center">
-  <a href="#installation">Installation</a> •
+  <a href="INSTALLATION.md">Installation</a> •
+  <a href="FEATURES.md">Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#roadmap">Roadmap</a> •
   <a href="#contributing">Contribute</a> •
