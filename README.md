@@ -58,8 +58,8 @@ Learn more about Aurora Early Access
   <a href="#screenshots">Screenshots</a> •
   <a href="#roadmap">Roadmap</a> •
   <a href="#contributing">Contribute</a> •
-  <a href="SUPPORT.md">Support</a>
-  <a href="PRIVACY.md">Support</a>
+  <a href="SUPPORT.md">Support</a> •
+  <a href="PRIVACY.md">PRIVACY</a>
 </p>
 
 ---
