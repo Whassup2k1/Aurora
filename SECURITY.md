@@ -64,7 +64,7 @@ Aurora is designed to keep your personal media and server infrastructure under y
 
 Some optional features may communicate with external services for metadata, artwork, trailers, news or other integrations.
 
-More detailed privacy information will be provided as Aurora approaches broader public distribution.
+For detailed information about Aurora's privacy-first architecture and data handling, see [PRIVACY.md](PRIVACY.md).
 
 ---
 
