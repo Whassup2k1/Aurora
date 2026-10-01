@@ -625,6 +625,8 @@ Planned documentation includes:
 - **[Privacy](PRIVACY.md)** — Learn how Aurora protects your privacy
 - **[Contributing](CONTRIBUTING.md)** — Help improve Aurora
 
+- - **[End User License Agreement](EULA.md)** — Aurora software license and terms of use
+
 ---
 
 ## 🔐 Security
