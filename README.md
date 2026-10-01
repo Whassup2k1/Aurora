@@ -75,6 +75,8 @@ Aurora is being built as a complete personal entertainment platform combining mu
 
 Instead of feeling like a traditional media server control panel, Aurora is designed to feel like a real streaming product — while keeping your library and infrastructure under your control.
 
+📖 **[Explore all Aurora features](FEATURES.md)**
+
 > **Your media. Your server. Your world.**
 
 ---
