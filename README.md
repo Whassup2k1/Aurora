@@ -53,14 +53,13 @@ Learn more about Aurora Early Access
 <hr>
 
 <p align="center">
-- **[Installation](INSTALLATION.md)** — Install and configure Aurora
-- **[Features](FEATURES.md)** — Explore Aurora's capabilities
-- **[Early Access](EARLY_ACCESS.md)** — Join the beta testing program
-- **[Roadmap](ROADMAP.md)** — See where Aurora is going
-- **[Support](SUPPORT.md)** — Get help and report problems
-- **[Security](SECURITY.md)** — Report security vulnerabilities
-- **[Privacy](PRIVACY.md)** — Learn how Aurora protects your privacy
-- **[Contributing](CONTRIBUTING.md)** — Help improve Aurora
+  <a href="INSTALLATION.md">Installation</a> •
+  <a href="FEATURES.md">Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#contributing">Contribute</a> •
+  <a href="SUPPORT.md">Support</a>
+  <a href="PRIVACY.md">Support</a>
 </p>
 
 ---
