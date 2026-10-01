@@ -37,6 +37,12 @@ share feedback and help us polish the experience before launch.
 <h3>🌌 Be among the first to experience Aurora.</h3>
 
 <p>
+<a href="EARLY_ACCESS.md">
+Learn more about Aurora Early Access
+</a>
+</p>
+
+<p>
 <a href="https://github.com/Whassup2k1/Aurora/discussions/1">
 <strong>→ Join the Aurora Beta Testing Program</strong>
 </a>
