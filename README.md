@@ -58,7 +58,7 @@ Learn more about Aurora Early Access
   <a href="#screenshots">Screenshots</a> •
   <a href="#roadmap">Roadmap</a> •
   <a href="#contributing">Contribute</a> •
-  <a href="#support-aurora">Support Aurora</a>
+  <a href="SUPPORT.md">Support</a>
 </p>
 
 ---
