@@ -616,14 +616,14 @@ Public documentation will progressively be added as Aurora approaches release.
 
 Planned documentation includes:
 
-- Installation
-- Server administration
-- Libraries
-- Metadata
-- Integrations
-- Backup & restore
-- Troubleshooting
-- Clients & devices
+- **[Installation](INSTALLATION.md)** — Install and configure Aurora
+- **[Features](FEATURES.md)** — Explore Aurora's capabilities
+- **[Early Access](EARLY_ACCESS.md)** — Join the beta testing program
+- **[Roadmap](ROADMAP.md)** — See where Aurora is going
+- **[Support](SUPPORT.md)** — Get help and report problems
+- **[Security](SECURITY.md)** — Report security vulnerabilities
+- **[Privacy](PRIVACY.md)** — Learn how Aurora protects your privacy
+- **[Contributing](CONTRIBUTING.md)** — Help improve Aurora
 
 ---
 
