@@ -75,6 +75,109 @@ The initial setup is designed to cover:
 - Optional integrations
 - Initial library scan
 
+Once Aurora Server is running on the local network, supported devices can
+connect to Aurora using:
+
+`http://aurora.local`
+
+Aurora will guide the device through any additional steps required to establish
+a secure local connection.
+
+---
+
+## iPhone & iPad
+
+Aurora can be installed on an iPhone or iPad as a Progressive Web App (PWA).
+
+The following procedure has been validated on a physical iPhone during Aurora's
+pre-beta testing.
+
+The device must be connected to a network where the Aurora Server is reachable.
+
+### 1. Open Aurora in Safari
+
+On the iPhone or iPad, open Safari and visit:
+
+`http://aurora.local`
+
+Aurora will detect that the device does not yet trust the local secure
+connection and display the secure connection setup.
+
+### 2. Download the Aurora Profile
+
+Select the option to download the Aurora profile.
+
+If iOS asks where the profile should be downloaded, choose the iPhone or iPad
+being configured.
+
+iOS may confirm that the profile has been downloaded.
+
+### 3. Install the Aurora Profile
+
+Open:
+
+**Settings → General → VPN & Device Management**
+
+Select the downloaded Aurora profile and follow the iOS instructions to install
+it.
+
+The device passcode may be required by iOS.
+
+### 4. Enable Full Trust
+
+After installing the profile, open:
+
+**Settings → General → About → Certificate Trust Settings**
+
+Locate the Aurora Local Root CA and enable full trust.
+
+Confirm the iOS warning when prompted.
+
+This allows the device to establish a trusted HTTPS connection directly with
+the local Aurora Server.
+
+### 5. Return to Aurora
+
+Return to Safari and Aurora.
+
+Aurora should now report that the connection is secure.
+
+You can also access Aurora securely at:
+
+`https://aurora.local`
+
+If the connection still appears untrusted, close and reopen the Aurora page
+after confirming that full trust is enabled.
+
+### 6. Install Aurora on the Home Screen
+
+Open Aurora's installation page if it is not already displayed.
+
+In Safari:
+
+1. Tap the **Share** button.
+2. Choose **Add to Home Screen**.
+3. Tap **Add**.
+
+Aurora will appear on the Home Screen like an installed application.
+
+Launch Aurora using this new Home Screen icon to use it in standalone mode
+without the normal Safari interface.
+
+> On iPhone and iPad, adding a web application to the Home Screen is controlled
+> by iOS and cannot be completed automatically by Aurora.
+
+### After Installation
+
+The Aurora profile normally only needs to be installed and trusted once on
+that device.
+
+Updating Aurora Server does not normally require reinstalling the Home Screen
+application or repeating the certificate setup.
+
+During pre-beta real-device testing, an installed Aurora PWA successfully
+continued across multiple Aurora Server updates without being reinstalled.
+
 ---
 
 ## macOS
