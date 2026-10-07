@@ -35,6 +35,8 @@ The installer file will have a name similar to:
 ```text
 AuroraInstaller-<version>.pkg
 
+AuroraInstaller-<version>.pkg
+
 For example:
 AuroraInstaller-27.01.999.pkg
 
@@ -342,4 +344,3 @@ sudo bash "/Library/Application Support/Aurora/installer-engine/"*/installer/uni
 
 Aurora
 Your media. Your server. Your world.
-```
