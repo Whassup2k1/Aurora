@@ -1,21 +1,3 @@
-<p align="center">
-  <img src="images/aurora-logo.png" alt="Aurora" width="420">
-</p>
-
-<p align="center">
-  <strong>Your media. Your server. Your world.</strong>
-</p>
-
-<p align="center">
-  Native installation guide for Aurora on macOS Apple Silicon.
-</p>
-
-<p align="center">
-  <strong>Private. Local. Yours.</strong>
-</p>
-
-<hr>
-
 <div align="center">
 
 <h2>🍎 Aurora for macOS</h2>
