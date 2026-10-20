@@ -1,650 +1,159 @@
-
 <p align="center">
   <img src="images/aurora-logo.png" alt="Aurora" width="420">
 </p>
 
+<h1 align="center">Aurora</h1>
+<p align="center"><strong>Your media. Your server. Your world.</strong></p>
 <p align="center">
-  <strong>Your media. Your server. Your world.</strong>
+  A unified, self-hosted entertainment ecosystem for your personal media.
 </p>
-
-<p align="center">
-  Your personal self-streaming platform for music, movies, series, TV, karaoke, guitar, news and more.
-</p>
-
-<p align="center">
-  <strong>Private. Local. Yours.</strong>
-</p>
-
-<hr>
-
-<div align="center">
-
-<h2>🧪 Aurora Early Access</h2>
-
-<p>
-Aurora is getting closer to its first public release.
-</p>
-
-<p>
-We're looking for early testers who want to experience Aurora,<br>
-share feedback and help us polish the experience before launch.
-</p>
-
-<p>
-<strong>Music · Movies · Series · TV · Karaoke · Guitar Tabs · News</strong>
-</p>
-
-<h3>🌌 Be among the first to experience Aurora.</h3>
-
-<p>
-<a href="EARLY_ACCESS.md">
-Learn more about Aurora Early Access
-</a>
-</p>
-
-<p>
-<a href="https://github.com/Whassup2k1/Aurora/discussions/1">
-<strong>→ Join the Aurora Beta Testing Program</strong>
-</a>
-</p>
-
-</div>
-
-<hr>
+<p align="center"><strong>One server. Multiple experiences. Your media, your way.</strong></p>
 
 <p align="center">
-  <a href="INSTALLATION.md">Installation</a> •
-  <a href="FEATURES.md">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contributing">Contribute</a> •
-  <a href="SUPPORT.md">Support</a> •
-  <a href="PRIVACY.md">Privacy</a>
+  <a href="#the-aurora-ecosystem">Ecosystem</a> ·
+  <a href="#what-you-can-do-with-aurora">Features</a> ·
+  <a href="#platforms--development-status">Platforms</a> ·
+  <a href="#screenshots">Screenshots</a> ·
+  <a href="EARLY_ACCESS.md">Early Access</a> ·
+  <a href="ROADMAP.md">Roadmap</a>
 </p>
 
----
+Private development — no public downloads yet. Aurora is actively developed and tested privately. This repository is the official public information hub, not the application source-code repository. Feature availability and platform support may change before release.
 
 <p align="center">
-  <img src="images/hero-dashboard.png" alt="Aurora Dashboard" width="100%">
+  <img src="images/hero-dashboard.png" alt="Aurora media dashboard" width="100%">
 </p>
 
----
-
-## ✨ What is Aurora?
-
-Aurora is a modern, self-hosted multimedia platform designed to bring your personal media into one unified experience.
-
-It started as a music player.
-
-It is becoming much more.
-
-Aurora is being built as a complete personal entertainment platform combining music, movies, series, live TV, karaoke, guitar tools, news and server management inside one modern interface.
-
-Instead of feeling like a traditional media server control panel, Aurora is designed to feel like a real streaming product — while keeping your library and infrastructure under your control.
-
-📖 **[Explore all Aurora features](FEATURES.md)**
-
-> **Your media. Your server. Your world.**
-
----
-
-## 🎵 Music
-
-Aurora brings your music library into the same premium experience as the rest of your media.
-
-Built for high-quality local playback, Aurora combines your albums, artists, playlists and favorites with rich artwork, powerful discovery and advanced audio features.
-
-Current and planned music features include:
-
-- Native music library
-- Album and artist browsing
-- FLAC and high-quality audio playback
-- HTTP Range streaming and seeking
-- Play queue
-- Favorites
-- Playlists
-- Global search
-- Rich artist and album artwork
-- Metadata enrichment
-- Advanced audio processing
-- Equalizer
-- Master Reference audio mode
-- Fullscreen player
-- Multi-user support
-
----
-
-## 🎤 Karaoke
-
-Aurora is also being designed as a complete karaoke environment.
-
-The goal is to provide:
-
-- Synchronized lyrics
-- Fullscreen karaoke mode
-- Queue management
-- Singer rotation
-- Local music integration
-- Party-friendly controls
-
-Karaoke remains under active development.
-
----
-
-## 🎸 Guitar Tabs & Practice
-
-Aurora includes a dedicated guitar practice experience powered by AlphaTab.
-
-Features currently being developed include:
-
-- Guitar Pro file support
-- Tablature
-- Standard notation
-- Track selection
-- Playback transport
-- Speed control
-- Metronome
-- Count-in
-- A/B looping
-- Tuning information
-- Transposition
-- MIDI support
-- Print support
-- Practice mode
-
-Aurora aims to combine music listening and music practice in the same environment.
-
----
-
-## 📰 Music News
-
-Aurora includes an editorial music news system designed to keep the reading experience inside Aurora.
-
-The long-term goal includes:
-
-- Local article storage
-- Source attribution
-- Multilingual translation
-- Editorial validation
-- Artist-related news
-- Personalized discovery
-
----
-
-## 🎬 Movies, Series & TV
-
-Aurora is evolving beyond music.
-
-The multimedia roadmap includes:
-
-- Movies
-- Series
-- Live TV
-- IPTV
-- Rich metadata
-- Posters and backdrops
-- Trailers
-- Watch progress
-- Unified search
-- Home dashboard recommendations
-
-The goal is not to simply reproduce another media server interface.
-
-Aurora is designed around a unified streaming-style experience.
-
----
-
-## 🏠 One Home. Multiple Worlds.
-
-Aurora's long-term interface is built around a global dashboard.
-
-From there, each major section becomes its own experience:
-
-**Home → Music → Movies & Series → TV → News → Karaoke → Guitar**
-
-The main dashboard can bring together content from different parts of Aurora while dedicated dashboards provide deeper experiences for each type of media.
-
----
-
-## 🖥 A modern interface
-
-Aurora is built around a premium, adaptive interface designed for computers, televisions and other screen sizes.
-
-The interface is inspired by the usability of modern streaming applications without trying to copy any particular service.
-
-Aurora focuses on:
-
-- Large artwork
-- Immersive layouts
-- Adaptive navigation
-- Dynamic visual accents
-- Dark interface
-- Readable typography
-- Simple controls
-- Minimal technical clutter
-
-> **A home media server should not have to look like a server.**
-
----
-
-<a id="screenshots"></a>
-
-## 📸 Screenshots
-
-### Artist Page
-
-<p align="center">
-  <img src="images/music-home.png" alt="Aurora Music Home" width="100%">
-</p>
-
-### Album
-
-<p align="center">
-  <img src="images/album-page.png" alt="Aurora Album Page" width="100%">
-</p>
-
-### Fullscreen Player
-
-<p align="center">
-  <img src="images/fullscreen-player.png" alt="Aurora Fullscreen Player" width="100%">
-</p>
-
-### Search
-
-<p align="center">
-  <img src="images/search.png" alt="Aurora Search" width="100%">
-</p>
-
-### Movies
-
-<p align="center">
-  <img src="images/movies.png" alt="Aurora Movies" width="100%">
-</p>
-
-### Administration
-
-<p align="center">
-  <img src="images/admin-dashboard.png" alt="Aurora Admin Dashboard" width="100%">
-</p>
-
----
-
-## ⚙️ Aurora Server
-
-Aurora is powered by Aurora Server, the local engine behind your personal streaming experience.
-
-Aurora Server manages your media libraries, users, streaming, metadata, artwork, backups, updates and connected Aurora devices from one central location.
-
-It is designed to work quietly in the background so you can focus on your media rather than managing server infrastructure.
-
-**One server. Your media. All your screens.**
-
----
-
-## 🔌 Metadata & Services
-
-Aurora can enrich your media experience using trusted external metadata and artwork services.
-
-Depending on the type of content and the features you enable, Aurora can retrieve information such as:
-
-- Artist and album information
-- Movie and series metadata
-- Artwork and backdrops
-- Trailers
-- Additional media information
-
-External integrations are optional and are managed directly through Aurora Server.
-
----
-
-## 🔒 Privacy & Local-First
-
-Aurora is designed around a local-first philosophy.
-
-Your media library remains on your infrastructure.
-
-Aurora does not require a mandatory cloud account for basic local use.
-
-Where external services are enabled, Aurora connects to them only for the features that require them.
-
-Sensitive integration credentials remain server-side rather than being exposed to the browser.
-
----
-
-## 🛠 Administration
-
-Aurora includes its own administration environment for managing your server.
-
-The Admin experience includes or is being developed for:
-
-- Libraries
-- Scan jobs
-- Catalog
-- Artwork
-- Metadata
-- Users
-- Integrations
-- System health
-- Server diagnostics
-- Updates
-- Backup and recovery
-
-The goal is to make Aurora manageable without requiring users to understand its internal server architecture.
-
----
-
-<a id="installation"></a>
-
-## 📦 Installation
-
-> **Aurora is currently under active development and preparing for its first public beta.**
-
-Aurora is being designed around a simple installation experience.
-
-The initial Aurora Server release is focused on Ubuntu/Linux and will be distributed as a native package.
-
-Once installed, Aurora Server prepares the services required to run your personal streaming environment.
-
-The objective is simple:
-
-**Install Aurora. Add your media. Start streaming.**
-
-No manual database or container configuration should be required for a normal installation.
-
-Public installation instructions and builds will become available as Aurora enters beta testing.
-
-📖 **[Read the Aurora Installation Guide](INSTALLATION.md)**
-
----
-
-## 🌐 Platform Support
-
-### Initial Server Platform
-
-- Ubuntu / Linux
-
-### Planned Aurora Clients
-
-- Windows
-- macOS
-- Android
-- iPhone & iPad
-- Android TV / Google TV
-- Apple TV
-- Additional Linux platforms
-
-Aurora Server is being stabilized on Linux first while the Aurora experience expands across additional devices and platforms.
-
-The long-term goal is simple:
-
-**One Aurora Server. Your media across all your screens.**
-
----
-
-## 🌍 Multilingual by Design
-
-Aurora is designed as a multilingual platform from the start.
-
-The interface can adapt to the user's preferred language, allowing different Aurora users to enjoy the platform in the language that feels natural to them.
-
-Aurora's multilingual architecture is designed to extend across the entire experience, including:
-
-- Interface and navigation
-- Server administration
-- Movies and Series
-- TV
-- Music
-- Karaoke
-- Guitar tools
-- News and editorial content
-- Notifications and system messages
-
-Additional languages will continue to be added and improved with community feedback.
-
-**One Aurora. Many languages.**
-
----
-
-## 🔄 Updates & Recovery
-
-Aurora's installation architecture is being designed around safe and predictable updates.
-
-Planned and developing capabilities include:
-
-- Versioned releases
-- Automatic pre-upgrade backups
-- Database backups
-- Update health validation
-- Previous-release tracking
-- Rollback support
-- Persistent configuration
-- Server diagnostics
-
-The objective is to make Aurora safe to update without putting an existing media library at risk.
-
----
-
-## 🧪 Project Status
-
-Aurora is currently in **active development and preparing for its first public beta**.
-
-Core systems already under development or validation include:
-
-- Native Aurora Server
-- Music catalog
-- Audio streaming
-- Global search
-- Library scanning
-- Multi-user support
-- Administration
-- Artwork management
-- Metadata and integrations
-- Updates and backups
-- Local HTTPS
-- Local network discovery
-
-Several major modules continue to evolve as Aurora moves toward its first public release.
-
----
-
-<a id="roadmap"></a>
-
-## 🗺 Roadmap
-
-### Core
-
-- Native Aurora Server
-- Universal installer
-- Music library
-- Audio streaming
-- Global search
-- Library scanner
-- Admin interface
-- Metadata providers
-- Artwork management
-- Multi-user support
-
-### Multimedia
-
-- Movies
-- Series
-- Live TV / IPTV
-- Unified home dashboard
-- Cinema discovery
-- Cross-media discovery
-
-### Music Experience
-
-- Advanced player
-- Audio enhancements
-- Karaoke
-- Guitar Tabs
-- Practice tools
-- Music News
-
-### Aurora Sessions
-
-Aurora Sessions is planned as the social and multi-device layer of the Aurora experience.
-
-- 🎬 Watch Together
-- 🎵 Listen Together
-- 🏠 Whole Home
-- 💬 Aurora Chat
-
-The goal is to make it possible to experience your personal media together — across users, rooms and eventually different Aurora environments.
-
-### Platforms
-
-- Linux
-- Windows
-- macOS
-- Android
-- iPhone & iPad
-- Android TV / Google TV
-- Apple TV
-
-A more detailed roadmap is available in [`ROADMAP.md`](ROADMAP.md).
-
----
-
-## 🏷 Versioning
-
-Aurora's public releases are planned to use a calendar-based version format:
-
-```text
-YY.WW.RRR
-```
-
-Example:
-
-```text
-26.39.001
-```
-
-Where:
-
-```text
-26  = year 2026
-39  = ISO week
-001 = release revision during that week
-```
-
-So no — you didn't miss 25 major versions. 😄
-
-The version number is designed to make it easy to understand roughly when an Aurora release was produced.
-
----
-
-## 💡 Philosophy
-
-Aurora is built around a few simple ideas.
-
-**Your media should feel beautiful.**
-
-**Self-hosting should not require becoming a system administrator.**
-
-**Local media should feel as polished as commercial streaming services.**
-
-**Your server should work for you — not the other way around.**
-
-**One server should be able to provide one coherent entertainment experience across your devices.**
-
-Aurora is privately developed, while community feedback helps identify what matters most.
-
-The goal is not to add every requested feature.
-
-The goal is to keep improving Aurora while protecting a consistent, simple and polished experience.
-
----
-
-<a id="contributing"></a>
-
-## 🤝 Contributing
-
-Aurora is privately developed, but community feedback will play an important role in shaping the experience.
-
-You don't need to be a developer to contribute.
-
-The best ways to help Aurora are:
-
-- Beta testing
-- Bug reports
-- Feature suggestions
-- UI/UX feedback
-- Translation feedback
-- Documentation feedback
-- Hardware and platform compatibility testing
-
-Not every feature request will necessarily become part of Aurora. Feedback will be evaluated based on usefulness, consistency with the Aurora experience and the needs of the wider community.
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information.
-
----
-
-## 🐛 Bugs & Feature Requests
-
-If you find a bug or have an idea for Aurora, please use GitHub Issues.
-
-When reporting a bug, include as much useful information as possible:
-
-- Aurora version
-- Operating system
-- Browser or Aurora client
-- Reproduction steps
-- Relevant logs
-- Screenshots when useful
-
-Please never include API keys, passwords or other secrets in public issues.
-
----
-
-<a id="support-aurora"></a>
-
-## ❤️ Support Aurora
-
-Aurora is an independent project.
-
-If you enjoy Aurora and want to support its development, support options may be introduced as the project approaches public release.
-
-Support helps with development, testing, infrastructure and the time required to keep improving Aurora.
-
----
-
-## 📚 Documentation
-
-Explore the official Aurora documentation:
-
-- **[Installation](INSTALLATION.md)** — Install and configure Aurora
-- **[Features](FEATURES.md)** — Explore Aurora's capabilities
-- **[Early Access](EARLY_ACCESS.md)** — Join the beta testing program
-- **[Roadmap](ROADMAP.md)** — See where Aurora is going
-- **[Support](SUPPORT.md)** — Get help and report problems
-- **[Security](SECURITY.md)** — Report security vulnerabilities
-- **[Privacy](PRIVACY.md)** — Learn how Aurora protects your privacy
-- **[Contributing](CONTRIBUTING.md)** — Help improve Aurora
-- **[End User License Agreement](EULA.md)** — Aurora software license and terms of use
-
----
-
-## 🔐 Security
-
-Do not publish credentials, private keys, access tokens or other sensitive information in GitHub Issues or Discussions.
-
-If you believe you have discovered a security vulnerability, please follow the responsible disclosure process described in [SECURITY.md](SECURITY.md).
-
----
-
-## ⚠️ Development Notice
-
-Aurora is under active development.
-
-Interfaces, installation procedures and features may change before the first stable public release.
-
-Beta builds should be treated as testing software. Keep backups of important media-server configuration and data while participating in Early Access.
-
----
-
-<p align="center">
-  <strong>AURORA</strong><br>
-  <em>Your media. Your server. Your world.</em>
-</p>
+Welcome to Aurora
+Aurora began with a simple idea: enjoying your own media should feel just as polished as using a modern streaming service — without giving up control of your library or your server.
+
+What started as a music experience has evolved into a connected entertainment platform spanning music, movies, TV series, live TV/IPTV, karaoke, guitar practice, news and more.
+
+Aurora combines a central media server with dedicated experiences for desktop, fullscreen viewing and Android. Its video playback architecture is evolving through Aurora Cinema Engine.
+
+Your library stays on infrastructure you control. Aurora is designed for local-first use, with no mandatory cloud account for basic local access. Optional external services may be used for metadata, artwork or specific integrations.
+The Aurora ecosystem
+Component	Purpose	Current direction
+Aurora Server	Manages libraries, users, metadata, artwork, streaming and administration	Linux and macOS implementations under private testing; Windows server packaging planned
+Aurora Desktop	Full-featured media browsing, playback and library experience	Functional in private development, with ongoing refinement
+Aurora Experience	Immersive fullscreen, TV-style interface for large screens and remote-friendly navigation	Functional in private development, undergoing integration and polish
+Aurora Android	Dedicated Android playback and navigation experience	Functional prototype/client undergoing private validation
+Aurora Cinema Engine	Video playback and media-processing capabilities developed for Aurora	Active development and device-specific validation
+
+
+These components are being developed as one connected platform, not unrelated applications. Their capabilities, supported devices and distribution methods are still being finalized.
+One server. Different ways to enjoy it.
+- At your desk: browse, organize and play through Aurora Desktop.
+- On a large screen: explore your library in Aurora Experience's fullscreen interface.
+- On Android: access a dedicated client designed for Android devices.
+- Behind the scenes: Aurora Server powers library management and delivery, while Cinema Engine work improves the playback stack.
+No public compatibility guarantee is made for particular TVs, phones, codecs or hardware at this stage.
+What you can do with Aurora
+🎵 Music — a library worth exploring
+Browse artists and albums, manage favorites and playlists, search across your collection, and enjoy artwork-rich playback. Aurora's music environment includes a full player, queue controls, local-library integration and ongoing work on advanced audio features.
+🎬 Movies & TV series — a cinematic experience
+Discover your personal movie and series collections through rich posters, backdrops, metadata and dedicated browsing pages. The movie and series interfaces are evolving with cinematic layouts, collections, artwork handling, progress tracking and more.
+📺 Live TV & IPTV
+Aurora includes work on live TV and M3U/IPTV workflows. Reliability, navigation and player behavior are still being refined; live TV functionality should not yet be considered final.
+🎞️ Aurora Cinema Engine
+Aurora Cinema Engine is the ongoing effort behind Aurora's video playback experience, including playback behavior, stream handling and platform-specific validation. The goal is smooth, dependable viewing across supported Aurora clients.
+
+Cinema Engine is under active development. Supported formats, transcoding scenarios, hardware acceleration and performance will be documented after verification, rather than promised in advance.
+🎤 Lyrics & karaoke
+Aurora integrates lyrics into the music experience, including local/synchronized lyrics work and a fullscreen karaoke interface. Additional party-oriented controls and refinements remain on the roadmap.
+🎸 Guitar tabs & practice
+The guitar section brings tablature and music practice into the same platform. Work includes AlphaTab-based notation and guitar tab experiences, with practice features evolving over time.
+📰 News & discovery
+Aurora's news experience explores music-related stories and editorial presentation, with continued improvements to its interface, sources and content workflows.
+🔎 Search, artwork & metadata
+Aurora aims to make a personal library easy to explore using search, rich artwork, media details and optional metadata integrations. Local artwork and metadata management are part of the ongoing work.
+⚙️ Administration
+Aurora Server includes administration tools for libraries, scanning, users, diagnostics and configuration. Installation, updates, recovery and packaging are being hardened before broader distribution.
+
+For additional detail and evolving scope, see [FEATURES.md](FEATURES.md).
+Designed for a premium experience
+Aurora puts the content first: immersive artwork, clean typography, thoughtful navigation, adaptable layouts and dynamic visual accents.
+
+Desktop and fullscreen viewing are different experiences, but share the same design philosophy: your media should feel like the main attraction, not a server control panel.
+Screenshots
+The current public dashboard preview appears near the top of this page. Additional verified screenshots of Aurora Desktop, Aurora Experience, Aurora Android and the video player will be added as their public presentation is finalized.
+
+Screens and workflows may change during private development.
+Platforms & development status
+Important: the statuses below describe private project progress, not public availability.
+Platform / experience	Status
+Aurora Server — Linux	Private development and validation
+Aurora Server — macOS (Apple Silicon)	Private development and validation
+Aurora Server — Windows	Planned / upcoming packaging work
+Aurora Desktop	Functional in private development
+Aurora Experience (fullscreen)	Functional in private development
+Aurora Android	Private development and device validation
+Aurora Cinema Engine	Active development and playback testing
+Additional platforms, including iOS / Apple TV	Long-term possibilities; no commitment or release date
+
+
+No public installers, builds or download links are available at this time.
+Installation
+Aurora aims to make self-hosting approachable: install a server, add your media and enjoy it through supported clients. Platform packaging and upgrade safety are still being validated.
+
+See [INSTALLATION.md](INSTALLATION.md) for the current public installation status. Do not treat internal development instructions as public installation guidance.
+🔒 Local-first by design
+Aurora is built around a straightforward principle: your personal media library belongs under your control.
+- Personal libraries reside on infrastructure controlled by the server owner.
+- Basic local use is designed not to require a mandatory Aurora cloud account.
+- External metadata, artwork or other online services may be optional features.
+- Multi-user access, permissions and secure server operation remain important design priorities.
+Local-first does not mean every optional feature is entirely offline. Security and privacy details will continue to be validated before public distribution.
+
+Read the [Privacy Policy](PRIVACY.md) and [Security Policy](SECURITY.md).
+🌍 Language support
+Aurora is being developed with French and English interface support. Localization is part of the desktop, server administration and media experiences, with continued consistency and quality work across clients.
+🧪 Early Access
+Aurora is not publicly released. If you are interested in testing a future build, sharing feedback or following development, you can read about the Early Access program and join the discussion.
+- [Learn about Early Access](EARLY_ACCESS.md)
+- Join the Aurora Beta Testing Program discussion
+Participation in a discussion does not grant immediate access or guarantee selection for a private test.
+🗺 Roadmap
+Current priorities include:
+1. Bringing Aurora Server, Desktop, Experience and Android together into a dependable ecosystem.
+2. Continuing Aurora Cinema Engine playback development and validation.
+3. Finishing platform packaging, installation, update and recovery testing.
+4. Refining the movie, series, live TV and music experiences.
+5. Strengthening cross-device navigation, localization, performance and reliability.
+6. Preparing a carefully controlled Early Access program when the software is ready.
+See [ROADMAP.md](ROADMAP.md) for the project roadmap. Milestones are subject to change.
+💡 The Aurora philosophy
+Great personal media software should be beautiful, practical and under your control.
+
+Aurora is independently developed with a focus on thoughtful design, local ownership and an enjoyable day-to-day experience. The goal isn't to accumulate features for their own sake; it's to create an ecosystem that feels consistent on every supported screen.
+🤝 Community & feedback
+Aurora's application code is developed privately, but feedback is welcome. Useful ways to contribute include:
+- Interface and usability suggestions
+- Bug reports from authorized testing
+- Language and documentation feedback
+- Device and hardware compatibility findings
+- Thoughtful ideas that fit Aurora's direction
+Use GitHub Discussions for conversation and GitHub Issues for actionable reports where appropriate. Please do not publish credentials, private server addresses, license material or sensitive logs.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [SUPPORT.md](SUPPORT.md).
+❤️ Supporting Aurora
+Aurora is an independent project. Voluntary ways to support continued development may be introduced in the future. There is currently no public purchase or donation requirement described by this README.
+📚 Documentation
+Resource	Description
+[Features](FEATURES.md)	Feature overview and areas under development
+[Roadmap](ROADMAP.md)	Development direction and priorities
+[Installation](INSTALLATION.md)	Installation and public availability status
+[Early Access](EARLY_ACCESS.md)	Information for prospective testers
+[Support](SUPPORT.md)	Questions, feedback and issue reporting
+[Contributing](CONTRIBUTING.md)	Ways to help without access to private source code
+[Privacy](PRIVACY.md)	Privacy approach
+[Security](SECURITY.md)	Security guidance and vulnerability reporting
+[EULA](EULA.md)	End-user license terms
+
+
+⚖️ Source code & licensing
+Aurora is proprietary software. This public repository is intended for project information, documentation, discussion and feedback. It does not make Aurora's private application code open source or grant a license to copy or redistribute that code.
+
+Any future builds will be distributed under their applicable terms. See [EULA.md](EULA.md) for further information.
+<p align="center"><strong>AURORA</strong></p>
+<p align="center"><em>Your media. Your server. Your world.</em></p>
