@@ -1,373 +1,93 @@
-# 🧪 Aurora Early Access
-
+Aurora Early Access
 <div align="center">
 
-## Be among the first to experience Aurora.
+Be among the first to experience Aurora.
+Your media. Your server. Your world.
 
-Aurora is getting closer to its first public beta.
+Aurora is in private development and validation. This page explains how to express interest in possible future testing. No public downloads or launch date have been announced.
 
-Early Access is where Aurora leaves the development environment and begins
-meeting real users, real hardware, real networks and real media libraries.
-
-**Music · Movies · Series · TV · Karaoke · Guitar Tabs · News**
-
-**Your media. Your server. Your world.**
-
+Join the Aurora Beta Testing Program discussion →
 </div>
 
----
-
-## 🌌 What is Aurora Early Access?
-
-Aurora Early Access is a testing program for people who want to experience
-Aurora before its stable public release and help improve the platform along
-the way.
-
-The goal is not simply to find technical bugs.
-
-We want to understand how Aurora behaves in real homes, with different
-hardware, libraries, networks and ways of using personal media.
-
-You do not need to be a developer or system administrator to participate.
-
-In fact, having testers with different levels of technical experience is
-important.
-
----
-
-## 🎯 What We're Testing
-
-Early Access testing will progressively cover the complete Aurora experience.
-
-Depending on the current beta build, testing may include:
-
-- Installation and first-time setup
-- Aurora Server
-- Music libraries
-- Library scanning
-- Albums and artists
-- Audio playback
-- Playlists and favorites
-- Search and discovery
-- Metadata and artwork
-- Movies and Series
-- TV
-- Karaoke
-- Guitar Tabs and practice tools
-- News
-- Administration
-- User accounts
-- Languages and localization
-- Updates
-- Backup and recovery
-- Performance
-- Browser and device compatibility
-- General usability
-
-Not every Aurora feature will necessarily be available in every Early Access
-build.
-
----
-
-## 👥 Who Can Participate?
-
-We are interested in testers with different environments and experience levels.
-
-You may be a good Early Access tester if you:
-
-- Maintain your own media library
-- Run a home server
-- Use a dedicated media computer
-- Enjoy self-hosted software
-- Use local music or video collections
-- Want a more polished personal media experience
-- Are willing to report problems when you find them
-
-Technical expertise is welcome, but it is not required.
-
-**Beginner, intermediate and advanced users are all useful to the project.**
-
-A product designed for everyone should also be tested by everyone.
-
----
-
-## 💻 Testing Environments
-
-Aurora will progressively be tested across different environments.
-
-Initial testing focuses on platforms for which an official Aurora build is
-available.
-
-Future testing is expected to expand across:
-
-- Linux
-- macOS
-- Windows
-- Mobile devices
-- Television platforms
-- Different browsers
-- Different network configurations
-- Different server hardware
-
-Platform availability will be announced as official Aurora builds become
-ready for testing.
-
----
-
-## 🚀 How Early Access Works
-
-Aurora Early Access will open progressively.
-
-Rather than immediately distributing Aurora to a large number of users,
-testing will begin with smaller groups.
-
-This allows issues to be identified and corrected before additional testers
-are added.
-
-The general process is:
-
-1. Join the Aurora Beta Testing Program.
-2. Tell us about your platform, setup and areas of interest.
-3. Early Access groups are selected as compatible builds become available.
-4. Selected testers receive installation information.
-5. Test Aurora in normal, real-world use.
-6. Report problems and share feedback.
-7. New builds are released as Aurora improves.
-8. Additional testers and platforms are added progressively.
-
-Being interested in Early Access does not guarantee immediate access to every
-build.
-
-Testing groups may be selected according to the platforms and environments
-needed for a particular testing phase.
-
----
-
-## ✋ Join Early Access
-
-If you would like to participate, introduce yourself in the official Aurora
-Beta Testing Program discussion:
-
-### **[→ Join the Aurora Beta Testing Program](https://github.com/Whassup2k1/Aurora/discussions/1)**
-
-Please include:
-
-**Platform**
-
-Linux · Windows · macOS
-
-**Areas you're interested in**
-
-Music · Movies & Series · TV · Karaoke · Guitar Tabs · News · Everything
-
-**Experience**
-
-Beginner · Intermediate · Advanced
-
-**Setup**
-
-Dedicated server · Home server · Desktop · Virtual machine · Other
-
-There is no need to publish private network information, credentials or other
-sensitive information.
-
----
-
-## 🐛 Reporting Bugs
-
-Finding bugs is one of the most useful parts of Early Access.
-
-When reporting a problem, please provide as much useful information as
-possible:
-
-- Aurora version
-- Operating system and version
-- Browser or Aurora client
-- Hardware architecture when relevant
-- What you were trying to do
-- What you expected to happen
-- What actually happened
-- Steps that reproduce the problem
-- Relevant logs
-- Screenshots when useful
-
-A simple reproducible report is often more useful than a long technical
-analysis.
-
-Never include:
-
-- Passwords
-- API keys
-- Access tokens
-- Private keys
-- Authentication cookies
-- Other credentials
-
-Security vulnerabilities should follow the process described in
-[SECURITY.md](SECURITY.md) rather than being published as normal bug reports.
-
----
-
-## 💬 Feedback
-
-Early Access is not only about bugs.
-
-Feedback is welcome about:
-
-- User experience
-- Navigation
-- Interface clarity
-- Installation
-- Performance
-- Features
-- Missing workflows
-- Accessibility
-- Translation and localization
-- Hardware compatibility
-- Everyday usability
-
-Not every suggestion will necessarily become part of Aurora.
-
-Feedback is evaluated according to its usefulness, how commonly the need is
-shared and whether it fits the overall Aurora experience.
-
-> **Listen to everyone. Build for the majority. Protect the vision.**
-
----
-
-## 🌍 Language Feedback
-
-Aurora is multilingual by design.
-
-Early Access testers can help identify:
-
-- Missing translations
-- Incorrect translations
-- Text that does not fit correctly
-- Unnatural wording
-- Locale-specific formatting issues
-- Areas that remain untranslated
-
-Native speakers are especially valuable when reviewing the quality of a
-localized interface.
-
-**One Aurora. Many languages.**
-
----
-
-## ⚠️ Early Access Means Beta
-
-Aurora Early Access builds are testing software.
-
-During Early Access:
-
-- Features may change
-- Interfaces may evolve
-- Bugs may exist
-- Some features may be incomplete
-- Installation procedures may change
-- Updates may require additional validation
-
-Do not treat an Early Access Aurora Server as the only copy of important
-application data.
-
-Your original media libraries should always remain independently backed up
-according to your normal backup strategy.
-
----
-
-## 🔒 Privacy & Security
-
-Aurora follows a local-first philosophy.
-
-Your personal media is intended to remain on infrastructure you control.
-
-Some optional Aurora features can communicate with external services for
-metadata, artwork and other integrations.
-
-During testing:
-
-- Never share credentials in public reports.
-- Remove personal information from screenshots and logs.
-- Do not publish private network information unnecessarily.
-- Report security vulnerabilities privately according to
-  [SECURITY.md](SECURITY.md).
-
-Additional privacy documentation will be available before wider public
-distribution.
-
----
-
-## 📦 Installation
-
-Installation instructions depend on the platform and current Early Access
-phase.
-
-Selected testers will receive the appropriate installation information when
-their testing group begins.
-
-General installation documentation is available here:
-
-### **[→ Aurora Installation Guide](INSTALLATION.md)**
-
----
-
-## 🧭 Feature Availability
-
-Aurora is a large platform and not every planned capability will be available
-during the first testing wave.
-
-The current feature overview is available here:
-
-### **[→ Explore Aurora Features](FEATURES.md)**
-
-Future development plans are available here:
-
-### **[→ Aurora Roadmap](ROADMAP.md)**
-
----
-
-## 🌱 Why Start Small?
-
-The objective of Early Access is not to collect the largest possible number
-of testers.
-
-The objective is to make Aurora better.
-
-A smaller group of active testers makes it easier to:
-
-- Understand reported problems
-- Reproduce issues
-- Compare different environments
-- Validate fixes
-- Improve installation
-- Test updates safely
-- Prepare Aurora for a wider audience
-
-As stability improves, Early Access can progressively expand.
-
----
-
-## ❤️ Thank You
-
-Aurora is an independent project built around a simple idea:
-
-Personal media should feel as polished and enjoyable as modern streaming
-services without giving up control of your own library and infrastructure.
-
-Every useful bug report, usability observation and thoughtful suggestion helps
-Aurora move closer to that goal.
-
-Thank you for helping build the first public generation of Aurora.
-
----
-
+What is Aurora Early Access?
+Aurora is an independently developed, local-first, self-hosted entertainment ecosystem for personal media libraries. Early Access aims to test Aurora on real hardware, networks and media collections before wider availability.
+
+We want to improve installation, reliability, playback, navigation, performance, and overall usability. Expressing interest does not guarantee an invitation or immediate access.
+The Aurora ecosystem
+Component	Role	Current direction
+Aurora Server	Libraries, users, metadata, streaming and administration	Linux and macOS under private validation; Windows server support planned
+Aurora Desktop	Media browsing, playback and management	Functional internally, ongoing refinement
+Aurora Experience	Immersive fullscreen interface for larger screens	Functional internally, integration and usability validation
+Aurora Android	Android client for media navigation and playback	Functional internally, device compatibility in validation
+Aurora Cinema Engine	Aurora's video playback and media processing work	Active development and device-specific validation
+
+
+These are internal development statuses, not promises of public availability. Platforms and features offered in testing will depend on readiness.
+What might be tested?
+- Installation, updates, recovery and administration
+- Music, movies, TV series and personal libraries
+- Metadata, artwork, scanning, search, playlists and favorites
+- Aurora Experience fullscreen navigation and controllers/remotes
+- Android client playback and device compatibility
+- Aurora Cinema Engine playback behavior and stream handling
+- Live TV and IPTV workflows
+- Karaoke, lyrics, guitar tabs and other music features
+- Performance on different machines and home networks
+- French and English interfaces, accessibility and localization
+Not every capability will be included in every test build.
+Who can participate?
+Beginners, experienced home-server users and people who love personal media libraries can all contribute useful feedback. You do not have to be a developer. We are interested in different hardware configurations and everyday use cases.
+Express your interest
+Visit the official discussion:
+→ Aurora Beta Testing Program
+If you would like, tell us:
+1. Platform: Linux, macOS, Windows, Android, or another viewing device.
+2. Interest: Desktop, Experience, Android, movies and series, music, live TV, karaoke or other features.
+3. Experience: Beginner, intermediate or advanced.
+4. Setup: Home server, desktop, TV, or another general configuration.
+5. What matters most to you: What you hope Aurora will do well.
+Never share passwords, access tokens, private IP addresses, API keys, personal account information or other sensitive details in public discussions.
+How invitations may work
+When suitable builds are ready, testing may start with a small group and expand gradually. Invitations, supported devices and installation instructions will be communicated for specific testing phases. Selection may be based on the platforms and scenarios needing validation.
+
+There is currently no official public test download in this documentation repository. Do not trust unofficial downloads claiming to be Aurora releases.
+Language support
+Aurora currently supports French and English in private development. Additional languages are planned, but have not been finalized or announced. Translation quality, layout, accessibility and language switching are useful areas for testers to review.
+Reporting bugs
+If selected to test, please include:
+- Operating system and general hardware model
+- Aurora client or component involved
+- Build identifier only if provided with your test build
+- Steps to reproduce
+- Expected versus actual behavior
+- Sanitized screenshots or logs, when useful
+Remove personal information, credentials, tokens, private URLs and sensitive media details from all shared material. For vulnerabilities, follow [SECURITY.md](SECURITY.md) instead of posting in public.
+Sharing feedback
+Feedback about interface quality, fullscreen navigation, playback reliability, performance, accessibility, localization, setup and everyday usability is welcome. Suggestions are considered against Aurora's design goals and long-term maintainability; not every request can become a feature.
+Testing precautions
+Early Access software may contain bugs, unfinished features and changes that affect existing configurations.
+- Keep independent backups of important data and personal media.
+- Never use an experimental installation as the only copy of something irreplaceable.
+- Follow the instructions supplied for your specific test build.
+- Do not expose your test server to the internet unless explicitly supported and securely configured.
+- Obtain software only through official project communication.
+Aurora is local-first, but optional integrations may contact third-party services for metadata, artwork or related functionality. Read [PRIVACY.md](PRIVACY.md) for more information.
+Availability and licensing
+Aurora is proprietary software. This GitHub repository serves as the project's public documentation and community hub, not its source-code repository.
+
+At present there are no publicly distributed Aurora builds, no announced release date and no public version number. Posting in the interest discussion does not guarantee access.
+Learn more
+- [Aurora overview](README.md)
+- [Features](FEATURES.md)
+- [Public roadmap](ROADMAP.md)
+- [Installation and availability](INSTALLATION.md)
+- [Privacy](PRIVACY.md)
+- [Security](SECURITY.md)
+- [Support](SUPPORT.md)
 <div align="center">
 
-## AURORA
+AURORA
+Your media. Your server. Your world.
 
-**Your media. Your server. Your world.**
-
-**Private. Local. Yours.**
-
+Express your interest →
 </div>
