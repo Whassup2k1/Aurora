@@ -1,315 +1,66 @@
 # 🔒 Aurora Privacy
 
-<div align="center">
-
-## Private. Local. Yours.
-
-Aurora is designed around a simple principle:
-
-**Your media and your activity belong to you.**
-
-Aurora does not operate a central service that collects your personal
-media activity, listening habits or viewing history.
-
-Your Aurora Server runs on infrastructure you control.
-
 **Your media. Your server. Your world.**
 
-</div>
+> **Development notice:** Aurora is under private development and validation. This document describes the project's privacy design and intended practices, not an independently audited privacy certification. Details may change before public distribution.
 
----
+## Local-first by design
 
-## 🌌 Privacy by Design
+Aurora is a self-hosted media ecosystem. The Aurora Server is designed to run on equipment you control and store the catalog, configuration and user data required for local use on that server. A mandatory centralized Aurora account is not part of the intended normal local experience.
 
-Privacy is not an optional Aurora feature.
+**Local-first does not mean fully offline.** Some features can contact external providers or online resources, including automatically when a feature is configured to do so. Actual network behavior depends on the build, enabled features and configuration.
 
-It is part of the architecture.
+## Information stored on your server
 
-Aurora is designed so that the core platform can operate from your own
-Aurora Server without requiring your personal media activity to be sent
-to Aurora.
+Depending on which features are enabled, Aurora may store or process:
 
-Aurora does not require a central Aurora cloud account for normal local use.
+- Media-library paths, titles, catalog entries, artwork and metadata
+- User accounts, access controls, settings, favorites and playlists
+- Playback progress, watch/listen history and application state
+- Lyrics, karaoke and guitar-related data
+- TV/IPTV source details, guide data and relevant credentials
+- Integration settings, API keys or tokens where required
+- Local logs, diagnostic information and backups
+- Chat or other collaboration data **only if and when such functionality is implemented and enabled**
 
-The project does not need to know what you listen to, what you watch,
-what exists in your library or how you use your personal server.
+Your server administrator controls access to the machine, backups and users. Other authorized accounts on the same server may have access to information depending on the configured permissions.
 
----
+## Information sent to the Aurora project
 
-## 🚫 What Aurora Does Not Collect
+Aurora is **not designed to require uploading your media library or playback history to a centrally operated Aurora service** for ordinary local use. The project does not currently advertise a mandatory telemetry service.
 
-Aurora does not operate a central data collection system for your personal
-media usage.
+This is a description of project intent and current design, **not a guarantee that every development build has been independently audited for all outbound traffic**. Network and telemetry behavior should be reviewed and documented for each supported release.
 
-Aurora does not centrally collect:
+Information you voluntarily post to GitHub Issues, Discussions or other support channels is separate from data held by your Aurora Server and is governed by the policies of those services.
 
-- Your music library
-- Your movie library
-- Your series library
-- Your TV library
-- Your listening history
-- Your viewing history
-- Your playlists
-- Your favorites
-- Your search history
-- Your karaoke activity
-- Your guitar practice activity
-- Your personal media files
-- Your Aurora Server activity
+## Optional online integrations
 
-There is no requirement to send this information to the Aurora project in
-order to use your personal Aurora Server.
+Features involving metadata, artwork, trailers, news, lyrics, updates or other integrations may contact third-party services. Requests may disclose information necessary to complete the operation, such as media titles, search terms, source identifiers, public IP address and technical request metadata. Providers control their own retention and privacy practices.
 
----
+The availability of a feature, the ability to disable it and the exact information exchanged will be documented as implementations are validated. Do not assume every online connection is optional until the relevant release documentation confirms it.
 
-## 🏠 Your Aurora Server
+## Credentials, diagnostics and logs
 
-Aurora Server is designed to run on infrastructure you control.
+Aurora may need API tokens and other credentials for integrations. Treat server configuration, logs and backups as sensitive: they can contain tokens, internal addresses, media names, account identifiers or other private data.
 
-Information required by Aurora to provide its features is stored and
-processed by your Aurora Server.
+Never post unredacted logs, server configuration, screenshots containing keys or copies of databases in public reports.
 
-Depending on the features you use, this can include application data such as:
+## Remote access and other clients
 
-- Media catalog information
-- User configuration
-- Aurora settings
-- Integration configuration
-- API credentials and keys
-- Chat data
-- Application state required by Aurora features
+Desktop, Experience and Android are designed to work with Aurora Server. Device-to-server communication and any remote access depend on the client, network and configuration. Exposing a private server on the public internet creates security and privacy risks; follow only supported release-specific guidance.
 
-This information belongs to the Aurora Server installation controlled by
-the user.
+## Backups and deletion
 
-The presence of information in your Aurora database does not mean that the
-Aurora project receives or collects that information.
+Backup copies may retain application data even after items are removed from the active installation. Users are responsible for managing their own storage, retention and recovery policies. Exact in-app data deletion and uninstall behavior will be documented with released builds; an uninstaller should not be assumed to remove every backup or machine-level file.
 
----
+## Languages
 
-## 💬 Aurora Chat
+French and English are supported in private development. Additional languages are planned but not yet announced as available.
 
-Aurora Chat requires messages and related information to be stored so that
-conversations can function.
+## Reporting and changes
 
-Chat data is stored as part of the user's Aurora environment.
+For general questions, see [Support](SUPPORT.md). Report security vulnerabilities privately using [Security](SECURITY.md).
 
-Aurora does not operate a central service for collecting Aurora Chat
-conversations.
+This document will be updated as product behavior and distribution practices are verified. It does not replace the privacy policy of any optional third-party provider.
 
-Users remain responsible for the Aurora Server on which their conversations
-are stored.
-
----
-
-## 🔑 API Keys & Credentials
-
-Some optional integrations require credentials such as API keys or access
-tokens.
-
-These credentials are stored by Aurora Server when required by the enabled
-integration.
-
-Sensitive integration credentials are intended to remain server-side and
-should not be exposed unnecessarily to Aurora clients or browsers.
-
-Aurora does not centrally collect these credentials.
-
-Users remain responsible for credentials configured on their own server.
-
----
-
-## 🔌 External Services
-
-Some Aurora features can optionally communicate with third-party services.
-
-Examples may include services used for:
-
-- Metadata
-- Artwork
-- Artist information
-- Album information
-- Movie and series information
-- Trailers
-- News
-- Lyrics
-- Other optional integrations
-
-When an external integration is enabled, information required to perform the
-requested operation may be sent directly from Aurora Server to that external
-service.
-
-Those services operate under their own privacy policies and terms.
-
-Using an external integration does not mean that the Aurora project receives
-the information exchanged between your server and that provider.
-
----
-
-## 📊 No Aurora Usage Tracking
-
-Aurora is not designed around tracking how users consume their personal media.
-
-Aurora does not require centralized analytics about:
-
-- What you play
-- What you watch
-- What you search for
-- Which artists you listen to
-- Which movies or series you watch
-- How often you use Aurora
-- What exists in your personal library
-
-Your media habits do not need to become Aurora's data.
-
----
-
-## 📡 Telemetry
-
-Aurora does not require telemetry to provide its core local experience.
-
-Aurora is designed around local operation rather than centralized behavioral
-tracking.
-
-If optional diagnostic or reporting capabilities are introduced in the
-future, they should be clearly documented and designed to preserve user
-choice and control.
-
----
-
-## 📝 Logs
-
-Aurora may generate local logs for operation, diagnostics and troubleshooting.
-
-These logs remain part of the Aurora Server environment unless the user
-chooses to share them.
-
-Aurora does not automatically require users to send server logs to the
-Aurora project.
-
-Before sharing logs publicly, users should remove:
-
-- Passwords
-- API keys
-- Access tokens
-- Private URLs
-- Personal information
-- Other sensitive information
-
----
-
-## 🐛 Bug Reports & Support
-
-If you choose to report a bug, participate in Early Access or request support,
-you decide what information you share.
-
-Information voluntarily submitted through GitHub or another support channel
-is separate from the operation of your Aurora Server.
-
-Never include credentials or unnecessary personal information in public bug
-reports.
-
-For support information, see:
-
-**[→ Aurora Support](SUPPORT.md)**
-
----
-
-## 🔐 Security
-
-Privacy also depends on keeping your Aurora Server secure.
-
-Users are responsible for the security of the systems on which Aurora is
-installed, including:
-
-- Operating system security
-- Network security
-- User accounts
-- Passwords
-- Remote access configuration
-- Backups
-- Third-party integration credentials
-
-Security vulnerabilities involving Aurora should be reported according to:
-
-**[→ Aurora Security Policy](SECURITY.md)**
-
----
-
-## 🌐 Remote Access
-
-Aurora is designed around user-controlled infrastructure.
-
-If remote access is enabled, the owner of the Aurora Server remains in
-control of how that server is made accessible outside the local network.
-
-Remote access may introduce additional privacy and security considerations
-depending on the user's network configuration.
-
-Users should only enable remote access using supported and appropriately
-secured configurations.
-
----
-
-## 💾 Backups
-
-Aurora backups may contain application information stored by Aurora Server.
-
-Depending on the configuration and enabled features, backups may include
-settings, database information and other application data.
-
-Backups should therefore be protected with the same care as the Aurora Server
-itself.
-
-Aurora does not require these backups to be uploaded to a central Aurora
-service.
-
----
-
-## 👤 User Control
-
-Aurora is built around the idea that the user controls the environment.
-
-You control:
-
-- Your server
-- Your media
-- Your libraries
-- Your users
-- Your integrations
-- Your API credentials
-- Your backups
-- Your network access
-- Your Aurora experience
-
-Aurora should provide the platform.
-
-**The user keeps the control.**
-
----
-
-## 🔄 Changes to This Document
-
-Aurora is under active development.
-
-This privacy document may evolve as new features, platforms and integrations
-are introduced.
-
-Any future feature that materially changes how information is processed
-should also be reflected in this document.
-
-Aurora's privacy-first philosophy remains the same:
-
-**Collect as little as possible. Keep control with the user.**
-
----
-
-<div align="center">
-
-## AURORA
-
-**Your media. Your server. Your world.**
-
-### Private. Local. Yours.
-
-</div>
+[Overview](README.md) · [Features](FEATURES.md) · [Early Access](EARLY_ACCESS.md) · [Security](SECURITY.md)
