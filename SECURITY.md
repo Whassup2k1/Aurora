@@ -1,73 +1,48 @@
-# Security Policy
+# 🔐 Aurora Security Policy
 
-Security and privacy are important parts of Aurora's local-first philosophy.
+**Your media. Your server. Your world.**
 
-If you believe you have discovered a security vulnerability in Aurora, please report it responsibly.
+> **Status:** Aurora is in private development. No public builds or supported public release versions have been announced.
 
-## Reporting a vulnerability
+## Privately report vulnerabilities
 
-Please do **not** publish security vulnerabilities as public GitHub Issues or Discussions.
+**Do not post security vulnerabilities as public GitHub Issues or Discussions.** This includes authentication bypasses, exposed credentials, unsafe file access, remote-access problems, injection vulnerabilities and installer/update issues.
 
-This includes vulnerabilities involving:
+Use GitHub's **Private vulnerability reporting** feature **if enabled on this repository**. If that feature is not visible, use a private contact channel publicly identified by the project owner; **do not post proof-of-concept details publicly**. No alternate security address is advertised by this document.
 
-- Authentication or authorization
-- User accounts
-- Access tokens
-- API credentials
-- Server administration
-- Remote access
-- Media library access
-- File access
-- Network exposure
-- Installation or update mechanisms
-- Backup and recovery
-- Any issue that could expose private user data
+Helpful reports include:
 
-For security reports, please use GitHub's private vulnerability reporting system when available for this repository.
+- A clear impact summary and non-destructive steps to reproduce
+- Platform/client, operating system and affected feature
+- Build identifier **only if one was provided** to an authorized tester
+- Sanitized evidence or logs, with secrets and personal data removed
 
-When reporting a vulnerability, please include:
-
-- Aurora version
-- Operating system and version
-- A clear description of the issue
-- Steps required to reproduce it
-- The potential impact
-- Relevant logs or screenshots when appropriate
-
-Please remove passwords, API keys, access tokens and other unrelated sensitive information before submitting a report.
+Please avoid accessing other users' data, destructive tests and unnecessary disclosure of personal information.
 
 ## Responsible disclosure
 
-Please allow reasonable time for a reported vulnerability to be investigated and addressed before publishing technical details publicly.
+Give the maintainer a reasonable opportunity to investigate and address a report before public disclosure. Reports made in good faith are appreciated. Submitting a report does not authorize intrusive testing against third-party installations.
 
-Security reports made in good faith are appreciated.
+## Supported releases
 
-## Supported versions
+| Channel | Security-support status |
+| --- | --- |
+| Public releases | None available at present |
+| Authorized private development / testing | Support arrangements communicated directly to participants |
+| Unofficial builds and mirrors | Not supported |
 
-Aurora is currently preparing for its first public beta.
+No public security-fix service-level agreement or response time is currently promised.
 
-During Early Access, supported versions may change frequently as new builds are released.
+## Security during private testing
 
-Beta testers should normally update to the latest available Aurora build before reporting a security issue that may already have been resolved.
+- Install software only through authorized official channels.
+- Keep the host operating system and backups secure.
+- Avoid public internet exposure unless specifically supported and securely configured.
+- Protect keys, administrator accounts and internal network information.
+- Treat beta software as experimental; do not rely on it as the only copy of important data.
 
-## Security during Early Access
+## Scope and third-party dependencies
 
-Aurora is under active development.
+Optional metadata, IPTV and other external integrations may involve third parties with their own policies and security practices. Applicable notices and dependency information will accompany distributable builds where required.
 
-Early Access builds should not be considered production-ready and should not be exposed directly to the public Internet unless explicitly documented as safe for that configuration.
-
-Aurora is designed primarily around a local-first environment, and additional remote-access capabilities will be documented as they become available.
-
-## Privacy
-
-Aurora is designed to keep your personal media and server infrastructure under your control.
-
-Some optional features may communicate with external services for metadata, artwork, trailers, news or other integrations.
-
-For detailed information about Aurora's privacy-first architecture and data handling, see [PRIVACY.md](PRIVACY.md).
-
----
-
-**Aurora**
-
-*Your media. Your server. Your world.*
+Read [Privacy](PRIVACY.md) and [Support](SUPPORT.md) for related guidance.
