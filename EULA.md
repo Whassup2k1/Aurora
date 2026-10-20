@@ -1,342 +1,52 @@
-# Aurora End User License Agreement
+# Aurora End User License Agreement — Draft for Review
 
-**Last Updated: October 2026**
+**Draft updated: October 2026 · Not yet attached to a public software release**
 
-This End User License Agreement ("Agreement") governs the installation and use
-of Aurora software ("Aurora"), including Aurora Server, Aurora applications,
-clients, installers, updates and related software distributed as part of the
-Aurora platform.
+> [!IMPORTANT]
+> This document is a **proposed license framework** for Aurora. It requires review by a qualified legal professional before it is used as a binding agreement for public distribution. There are currently no public Aurora downloads. This document alone does not offer a license to download or use a nonpublic build.
 
-By installing or using Aurora, you agree to this Agreement.
+## 1. Aurora and ownership
 
-If you do not agree to these terms, do not install or use Aurora.
+Aurora is independently developed proprietary software, including Aurora Server, Desktop, Experience, Android clients, Cinema Engine, and related installers and updates. Its original software and branding remain the property of their respective rights holders. Third-party materials retain their own licenses and rights.
 
----
+## 2. Permission for authorized testing
 
-## 1. Ownership
+A person who receives a build directly through an authorized Aurora testing arrangement may use it only within the scope communicated with that build. Public access to this document, repository or project discussion **does not grant access** to private builds, source code or distribution rights.
 
-Aurora is proprietary software.
+The terms accompanying a particular authorized test build take precedence where they expressly differ from this public draft.
 
-The Aurora software, source code, application architecture, user interface,
-branding, graphics and other original components of the Aurora project remain
-the property of their respective owner(s).
+## 3. Personal media and third-party services
 
-This Agreement grants you permission to use Aurora.
+Users are responsible for ensuring they have the necessary rights to access or use their media, IPTV sources and any third-party services. Aurora does not provide commercial media catalogs or IPTV subscriptions. Optional integrations remain subject to third-party terms and privacy policies.
 
-It does not transfer ownership of Aurora or its source code to you.
+## 4. Restrictions and legal rights
 
-Except where third-party components are separately licensed under their own
-terms, all rights not expressly granted under this Agreement are reserved.
+Unless authorized by the project owner or permitted by applicable law and relevant third-party licenses, private Aurora builds may not be redistributed, resold or presented as independently authored software. This draft does not override rights that cannot legally be restricted, including applicable rights involving interoperability, reverse engineering and third-party open-source components.
 
----
+## 5. Experimental software
 
-## 2. License Grant
+Authorized private test builds may contain errors, incomplete functionality, compatibility limitations and data-migration risks. Maintain independent backups. Do not use an experimental build as the sole location for irreplaceable information.
 
-Subject to this Agreement, you are granted a limited, non-exclusive,
-non-transferable and revocable license to install and use Aurora for personal
-and authorized use.
+## 6. Privacy and diagnostics
 
-During Early Access, Aurora may be provided specifically for testing and
-evaluation.
+See [Privacy](PRIVACY.md) for the project's current design and intended practices. Logs, bug reports and support materials should be sanitized before sharing. See [Security](SECURITY.md) for responsible vulnerability reporting.
 
-This license does not grant permission to distribute Aurora to other users.
+## 7. Feedback
 
----
+Participants may voluntarily send bug reports or suggestions. Terms for any submission or external contribution should be communicated clearly and must respect ownership of original submissions and third-party content.
 
-## 3. Your Media
+## 8. Updates, availability and changes
 
-Aurora is designed to organize, access and stream media controlled by the user.
+No specific feature, supported platform, release date or ongoing service level is promised through this document. If Aurora is distributed, final release-specific terms should identify the provider, applicable license grant, support arrangements, updates, termination, and governing legal provisions.
 
-Aurora does not grant you rights to any music, movies, television channels,
-images, metadata or other content that you do not otherwise have the legal
-right to use.
+## 9. Warranties, liability and mandatory rights
 
-You are responsible for ensuring that your use of media and external sources
-complies with applicable laws and the terms of the relevant content or service
-providers.
+Any warranties and limitations of liability will be set out in the final distribution agreement, **subject to applicable mandatory consumer protection and other laws**. This draft does not attempt to waive statutory rights.
 
-Aurora does not provide ownership rights to third-party content.
+## 10. Contact
+
+For general project information, use the [Aurora repository](https://github.com/Whassup2k1/Aurora). For product questions, see [Support](SUPPORT.md); for security issues, [Security](SECURITY.md).
 
 ---
 
-## 4. Restrictions
-
-Unless expressly authorized in writing or permitted by applicable law, you may
-not:
-
-- Redistribute Aurora or its installers
-- Sell, sublicense, rent or commercially redistribute Aurora
-- Publish private Aurora builds
-- Represent Aurora as your own software
-- Remove or misrepresent Aurora branding or ownership notices
-- Use Aurora trademarks or branding in a way that implies unauthorized
-  affiliation or endorsement
-- Circumvent technical measures intended to control access to Early Access or
-  restricted builds
-
-You may not use access to Aurora Early Access as authorization to distribute
-the software to other people.
-
-Nothing in this Agreement is intended to restrict rights that cannot legally
-be restricted under applicable law.
-
----
-
-## 5. Modification and Reverse Engineering
-
-Aurora is distributed as proprietary software.
-
-Except where permitted by applicable law, you may not reverse engineer,
-decompile, disassemble or modify Aurora for the purpose of reproducing,
-redistributing or creating an unauthorized derivative version of Aurora.
-
-This restriction does not apply to third-party components where their
-respective licenses expressly provide different rights.
-
----
-
-## 6. Early Access and Beta Software
-
-Aurora may be distributed before stable public release as Early Access,
-beta, preview or testing software.
-
-Early Access builds may:
-
-- Contain bugs
-- Include incomplete features
-- Change without notice
-- Modify interfaces or workflows
-- Require updates or migrations
-- Experience compatibility problems
-- Be replaced by newer builds
-- Be discontinued
-
-Early Access builds should not be relied upon as the sole system for
-irreplaceable application data.
-
-Users participating in Early Access are encouraged to maintain appropriate
-backups.
-
----
-
-## 7. Early Access Distribution
-
-Access to an Early Access build may be limited to selected testers.
-
-If you receive a restricted Aurora build, installation package or private
-download location, that access is intended for you and your authorized
-environment.
-
-You may not publicly redistribute restricted Early Access packages or private
-download information without permission.
-
-Participation in Early Access does not grant ownership rights in Aurora.
-
----
-
-## 8. Feedback
-
-You may voluntarily provide bug reports, suggestions, ideas and other feedback
-about Aurora.
-
-By submitting feedback, you allow the Aurora project to use that feedback to
-evaluate, improve and develop Aurora without an obligation to implement the
-suggestion or compensate the contributor.
-
-You retain ownership of original material you submit where applicable.
-
-Do not submit confidential information, proprietary third-party material or
-content you do not have permission to share.
-
----
-
-## 9. Privacy
-
-Aurora is designed around a local-first, privacy-first architecture.
-
-Aurora does not require centralized collection of your personal media activity
-for normal local operation.
-
-Some optional integrations may communicate with external services when enabled
-by the user.
-
-For additional information, see:
-
-**[Aurora Privacy](PRIVACY.md)**
-
----
-
-## 10. Third-Party Services
-
-Aurora may integrate with third-party services for features such as metadata,
-artwork, news, lyrics or other optional functionality.
-
-Those services are independent from Aurora and may be governed by their own
-terms, licenses and privacy policies.
-
-Aurora cannot control the availability, accuracy, policies or continued
-operation of independent third-party services.
-
-Use of those services remains subject to their respective terms.
-
----
-
-## 11. Third-Party Software
-
-Aurora may include, depend on or interact with third-party software and
-libraries.
-
-Third-party components remain subject to their respective licenses and
-copyright notices.
-
-Nothing in this Agreement is intended to replace, restrict or override rights
-granted under an applicable third-party license.
-
-Where required, third-party license notices will be provided with Aurora or
-its distribution materials.
-
----
-
-## 12. Updates
-
-Aurora may receive updates that add, modify or remove features, improve
-security, correct problems or change compatibility requirements.
-
-Early Access builds may require more frequent updates than stable releases.
-
-Availability of a particular feature in one version does not guarantee that
-the feature will remain unchanged in future versions.
-
----
-
-## 13. Backups
-
-You are responsible for maintaining appropriate backups of your media and
-other important data.
-
-Aurora is designed so that application operations should not require ownership
-or control of the user's original media files beyond the access explicitly
-configured by the user.
-
-However, no software should be treated as a substitute for a proper backup
-strategy.
-
----
-
-## 14. Security
-
-You are responsible for maintaining reasonable security for the computer,
-server, network and accounts on which Aurora is installed.
-
-This includes protecting:
-
-- Administrator accounts
-- Passwords
-- API credentials
-- Access tokens
-- Network access
-- Remote access configuration
-- Operating system security
-- Backups
-
-Security vulnerabilities involving Aurora should be reported according to the
-project's responsible disclosure process:
-
-**[Aurora Security Policy](SECURITY.md)**
-
----
-
-## 15. Availability
-
-Aurora is independently developed and is provided without a guarantee that
-every feature, integration, platform or external service will remain available
-indefinitely.
-
-Features may be modified, replaced or discontinued as the project evolves.
-
----
-
-## 16. Disclaimer of Warranty
-
-To the maximum extent permitted by applicable law, Aurora is provided
-"as is" and "as available" without warranties of uninterrupted operation,
-error-free operation or fitness for a particular purpose.
-
-Some jurisdictions do not allow certain warranty exclusions, so some of these
-limitations may not apply to you.
-
-Nothing in this Agreement excludes warranties or rights that cannot legally
-be excluded.
-
----
-
-## 17. Limitation of Liability
-
-To the maximum extent permitted by applicable law, the owner(s) and
-contributors of Aurora will not be liable for indirect, incidental, special or
-consequential damages arising from the use or inability to use Aurora.
-
-This may include loss of application data, loss of availability or disruption
-caused by software errors, updates, configuration or third-party services.
-
-These limitations apply only to the extent permitted by applicable law.
-
-Nothing in this Agreement limits liability that cannot legally be limited.
-
----
-
-## 18. Termination
-
-Your rights under this Agreement may terminate if you materially violate its
-terms.
-
-Upon termination, you must stop using and distributing any Aurora software for
-which your license has terminated.
-
-Termination does not affect third-party rights or licenses that apply
-independently to third-party components.
-
----
-
-## 19. Changes to This Agreement
-
-Aurora is under active development and this Agreement may be updated as the
-software, distribution model and services evolve.
-
-The applicable Agreement for a release may be included with that release.
-
-Material changes should be reflected by updating the date at the top of this
-document.
-
----
-
-## 20. Contact and Project Information
-
-Official Aurora project information, documentation and support resources are
-published through the Aurora project repository.
-
-For general support:
-
-**[Aurora Support](SUPPORT.md)**
-
-For security issues:
-
-**[Aurora Security Policy](SECURITY.md)**
-
-For privacy information:
-
-**[Aurora Privacy](PRIVACY.md)**
-
----
-
-<div align="center">
-
-## AURORA
-
-**Your media. Your server. Your world.**
-
-**Private. Local. Yours.**
-
-Proprietary software. All rights reserved.
-
-</div>
+**Aurora — Your media. Your server. Your world.**
