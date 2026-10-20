@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#the-aurora-ecosystem">Ecosystem</a> ·
-  <a href="#what-you-can-do-with-aurora">Features</a> ·
+  <a href="FEATURES.md">Features</a> ·
   <a href="#platforms--development-status">Platforms</a> ·
   <a href="#screenshots">Screenshots</a> ·
   <a href="EARLY_ACCESS.md">Early Access</a> ·
