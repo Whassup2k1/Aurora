@@ -21,7 +21,7 @@
 > **Private development — no public downloads yet.** Aurora is actively developed and tested privately. This repository is the official public information hub, not the application source-code repository. Feature availability and platform support may change before release.
 
 <p align="center">
-  <img src="images/Aurora_Desktop.png" alt="Aurora media dashboard" width="100%">
+  <img src="images/Aurora_Desktop.png" alt="Aurora Desktop" width="100%">
 </p>
 
 ---
