@@ -184,6 +184,16 @@ Aurora is being developed with **French and English** interface support. Localiz
 
 ---
 
+
+> **Built for the Aurora ecosystem**
+>
+> Aurora Cinema Engine is being developed to improve video playback, stream handling and compatibility across Aurora's supported experiences.
+>
+> The goal is simple: make watching your personal media feel effortless.
+>
+> Playback capabilities and performance will be documented as validation progresses.
+
+
 ## 🧪 Early Access
 
 Aurora is **not publicly released**. If you are interested in testing a future build, sharing feedback or following development, you can read about the Early Access program and join the discussion.
