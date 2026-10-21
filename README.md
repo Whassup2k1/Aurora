@@ -24,8 +24,6 @@
   <a href="#-discover-aurora">Screenshots</a> ·
   <a href="EARLY_ACCESS.md">Early Access</a> ·
   <a href="ROADMAP.md">Roadmap</a>
-  
-**[🎬 Discover Aurora Cinema Engine →](CINEMA_ENGINE.md)**
 
 </p>
 
