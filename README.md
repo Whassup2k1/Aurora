@@ -110,21 +110,23 @@ Aurora puts the content first: immersive artwork, clean typography, thoughtful n
 Desktop and fullscreen viewing are different experiences, but share the same design philosophy: **your media should feel like the main attraction, not a server control panel**.
 
 
-## 📸 Screenshots
 
-### Aurora Desktop
+## 📸 Discover Aurora
 
-Your complete personal media experience, from music and movies to library management and discovery.
-
-![Aurora Desktop](images/Aurora_Desktop.png)
+Aurora brings your personal media to life across multiple screens, with a consistent visual identity and experiences designed for each environment.
 
 ### Aurora Experience & Android
 
-One immersive interface, designed for fullscreen entertainment and shared across Aurora Experience and Aurora Android.
+**Your entertainment. Your screen. Your experience.**
+
+An immersive, fullscreen interface built for movies, TV series, live television, and more.
+
+Designed for large screens and shared with Aurora Android, Aurora Experience brings the same cinematic atmosphere to your connected devices.
 
 ![Aurora Experience & Android](images/Aurora_Experience.png)
 
-> **Development preview:** Screenshots are taken from private development builds. The interface may evolve before public release.
+> **Development preview:** Screenshots are from private development builds. Interfaces may evolve before public release.
+
 
 
 ---
