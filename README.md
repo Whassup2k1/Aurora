@@ -189,7 +189,16 @@ Aurora is being developed with **French and English** interface support. Localiz
 Aurora is **not publicly released**. If you are interested in testing a future build, sharing feedback or following development, you can read about the Early Access program and join the discussion.
 
 - [Learn about Early Access](EARLY_ACCESS.md)
-- [Join the Aurora Beta Testing Program discussion](https://github.com/Whassup2k1/Aurora/discussions/1)
+
+- ### Interested in Aurora?
+
+Aurora is growing into a complete self-hosted entertainment ecosystem.
+
+Follow its development, share your ideas, or express your interest in future private testing.
+
+**[→ Join the Aurora Early Access Discussion](https://github.com/Whassup2k1/Aurora/discussions/1)**
+
+*No public downloads or release dates have been announced.*
 
 Participation in a discussion **does not grant immediate access** or guarantee selection for a private test.
 
