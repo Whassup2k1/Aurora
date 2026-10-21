@@ -89,7 +89,7 @@ Aurora Cinema Engine is the ongoing effort behind Aurora's video playback experi
 **Cinema Engine is under active development.** Supported formats, transcoding scenarios, hardware acceleration and performance will be documented after verification, rather than promised in advance.
 
 
-**[🎬 Discover Aurora Cinema Engine →](CINEMA_ENGINE.md)**
+**[🎬 Discover Aurora Cinema Engine →](AURORA_CINEMA_ENGINE.md)**
 
 
 > **Built for the Aurora ecosystem**
