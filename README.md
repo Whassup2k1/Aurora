@@ -24,6 +24,9 @@
   <a href="#-discover-aurora">Screenshots</a> ·
   <a href="EARLY_ACCESS.md">Early Access</a> ·
   <a href="ROADMAP.md">Roadmap</a>
+  
+**[🎬 Discover Aurora Cinema Engine →](CINEMA_ENGINE.md)**
+
 </p>
 
 > **Private development — no public downloads yet.** Aurora is actively developed and tested privately. This repository is the official public information hub, not the application source-code repository. Feature availability and platform support may change before release.
