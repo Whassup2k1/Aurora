@@ -4,6 +4,15 @@
 
 <h1 align="center">Aurora</h1>
 <p align="center"><strong>Your media. Your server. Your world.</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Self--Hosted-Yes-238636" alt="Self Hosted">
+  <img src="https://img.shields.io/badge/Local--First-Privacy-238636" alt="Local First">
+  <img src="https://img.shields.io/badge/Languages-FR%20%7C%20EN-0969DA" alt="French and English">
+  <img src="https://img.shields.io/badge/Status-Private%20Development-orange" alt="Private Development">
+  <img src="https://img.shields.io/badge/License-Proprietary-555555" alt="Proprietary">
+</p>
+
 <p align="center">
   A unified, self-hosted entertainment ecosystem for your personal media.
 </p>
